@@ -10,7 +10,7 @@ The project focuses on understanding how database engines process queries, enfor
 
 ## Overview
 
-QuartzDB is designed as a learning-oriented relational database engine that brings together several fundamental database concepts in a single Rust application.
+QuartzDB is also designed as a learning-oriented relational database engine that brings together several fundamental database concepts in a single Rust application.
 
 - **Custom query engine:** Lexing, parsing, AST construction, query planning, and execution.
 - **Relational data management:** Tables, schemas, data types, and CRUD operations.
