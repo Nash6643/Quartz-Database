@@ -6,7 +6,7 @@ QuartzDB is a personal systems programming project that explores the internal ar
 
 Rather than relying on an existing database engine, QuartzDB implements its own SQL-inspired query language, lexer, recursive-descent parser, abstract syntax tree, query planner, execution engine, transaction handling, indexing, and page-based storage system.
 
-The project focuses on understanding how database engines process queries, enforce relational constraints, manage data, and persist records to disk.
+This project focuses on understanding how database engines process queries, enforce relational constraints, manage data, and persist records to disk.
 
 ## Overview
 
